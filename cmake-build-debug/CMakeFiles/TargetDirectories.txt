@@ -1,0 +1,3 @@
+D:/Egor/Study/Programing/Clion_projects/nfc/cmake-build-debug/CMakeFiles/nfc.dir
+D:/Egor/Study/Programing/Clion_projects/nfc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Egor/Study/Programing/Clion_projects/nfc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
